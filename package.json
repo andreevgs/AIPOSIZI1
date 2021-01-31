@@ -1,0 +1,16 @@
+{
+  "name": "apoisizi",
+  "version": "1.0.0",
+  "description": "lab 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "devstart": "nodemon index.js"
+  },
+  "author": "Andreev G.S Kinevich T.O.\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D.",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
