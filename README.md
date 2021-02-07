@@ -1,5 +1,5 @@
 # AIPOSIZI1
-### The app is available at the link below
+### The app is available at the link below (old version using http module)
 [aipoisizi.herokuapp.com](https://aipoisizi.herokuapp.com)
 
 ### Installing and deploying
@@ -15,3 +15,7 @@ cd AIPOSIZI1
 npm start
 ```
 After this steps application will be able at `localhost:3000`.
+Also you can use argv to host a custom directory. Example:
+```
+npm start 'C:\Program Files'
+```
