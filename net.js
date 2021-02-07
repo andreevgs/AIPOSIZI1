@@ -24,6 +24,8 @@ const mime = {
 
 const methods = ['GET', 'POST', 'OPTIONS'];
 
+const forbidden_path = '/var/';
+
 let server = net.createServer((con) => {
     let input = '';
     con.on('data', (data) => {
@@ -71,7 +73,8 @@ let server = net.createServer((con) => {
             }
 
             let file = path.join(dir, reqpath.replace(/\/$/, '/index.html'));
-            if (file.indexOf(dir + path.sep) !== 0) {
+            if (dir.includes(forbidden_path)) {
+                console.log('Error access to dir: Forbidden');
                 let body = 'Forbidden';
                 con.write('HTTP/1.1 403 Forbidden\n');
                 con.write('Content-Type: text/plain\n');

@@ -65,3 +65,84 @@ visited url: /.git
 /.git contents is shown
 visited url: /.git/info
 /.git/info contents is shown
+visited url: /
+/ contents is shown
+file is shown
+visited url: /favicon.ico
+404: Not Found
+visited url: /public
+/public contents is shown
+visited url: /favicon.ico
+404: Not Found
+visited url: /public/images
+/public/images contents is shown
+visited url: /favicon.ico
+404: Not Found
+file is shown
+visited url: /favicon.ico
+404: Not Found
+visited url: /
+404: Not Found
+visited url: /
+404: Not Found
+visited url: /
+404: Not Found
+visited url: /
+404: Not Found
+visited url: /
+/ contents is shown
+visited url: /Library
+/Library contents is shown
+visited url: /favicon.ico
+404: Not Found
+visited url: /sites
+/sites contents is shown
+visited url: /favicon.ico
+404: Not Found
+visited url: /sites/phpmyadmin
+/sites/phpmyadmin contents is shown
+visited url: /favicon.ico
+404: Not Found
+file is shown
+visited url: /favicon.ico
+404: Not Found
+file is shown
+visited url: /favicon.ico
+404: Not Found
+visited url: /
+/ contents is shown
+file is shown
+file is shown
+visited url: /favicon.ico
+404: Not Found
+visited url: /ssl
+/ssl contents is shown
+visited url: /favicon.ico
+404: Not Found
+visited url: /apache2
+/apache2 contents is shown
+visited url: /favicon.ico
+404: Not Found
+visited url: /
+/ contents is shown
+file is shown
+visited url: /favicon.ico
+404: Not Found
+file is shown
+visited url: /favicon.ico
+404: Not Found
+file is shown
+file is shown
+visited url: /favicon.ico
+404: Not Found
+file is shown
+visited url: /
+/ contents is shown
+visited url: /
+/ contents is shown
+visited url: /
+/ contents is shown
+visited url: /
+/ contents is shown
+visited url: /
+/ contents is shown
